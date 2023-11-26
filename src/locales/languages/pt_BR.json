@@ -1,0 +1,21 @@
+{
+  "video.validation_409": "Ocorreu um erro ao criar o Video.",
+  "video.validation_url_409": "URL já registrada.",
+  "video.validation_name_409": "Nome já registrado.",
+  "video.validation_on_update_409": "É necessário um parâmetro para editar um Video.",
+  "video.validation_404": "Video não encontrado.",
+  "video.validation_on_delete_409": "É necessário o ID do Video.",
+
+  "client.validation_409": "Ocorreu um erro ao criar o Usuário.",
+  "client.validation_email_409": "Email já registrado.",
+  "client.validation_document_409": "Documento já registrado.",
+  "client.validation_on_update_409": "É necessário um parâmetro para editar um Usuário.",
+  "client.validation_404": "Usuário não encontrado.",
+  "client.validation_on_delete_409": "É necessário o ID do Usuário.",
+
+  "product.validation_has_product_409": "Produto já registrado.",
+  "product.validation_409": "Ocorreu um erro ao criar o produto.",
+  "product.validation_on_update_409": "É necessário um parâmetro para editar um produto.",
+  "product.validation_404": "Produto não encontrado.",
+  "product.validation_on_delete_409": "ID do produto é necessário."
+}

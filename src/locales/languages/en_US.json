@@ -1,0 +1,21 @@
+{
+  "video.validation_409": "There was an error creating the Video.",
+  "video.validation_url_409": "URL already registered.",
+  "video.validation_name_409": "Name already registered.",
+  "video.validation_on_update_409": "One parameter is required to update a Video.",
+  "video.validation_404": "Video not found.",
+  "video.validation_on_delete_409": "ID Video is required.",
+
+  "client.validation_409": "There was an error creating the User.",
+  "client.validation_email_409": "Email already registered.",
+  "client.validation_document_409": "Document already registered.",
+  "client.validation_on_update_409": "One parameter is required to update a User.",
+  "client.validation_404": "User not found.",
+  "client.validation_on_delete_409": "ID User is required.",
+
+  "product.validation_has_product_409": "Product already registered.",
+  "product.validation_409": "There war an error creating the product.",
+  "product.validation_on_update_409": "One parameter is required to update a product.",
+  "product.validation_404": "Product not found.",
+  "product.validation_on_delete_409": "ID Product is required."
+}
